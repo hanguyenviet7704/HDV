@@ -16,7 +16,6 @@ public class Main {
     public static void main(String[] args) throws IOException, InterruptedException, NoSuchAlgorithmException, InvalidKeyException {
 
 
-        ManagedChannel managedChannel = ManagedChannelBuilder.forAddress("36.50.135.242",)
 
     }
 }
